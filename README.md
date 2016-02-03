@@ -36,13 +36,13 @@ Currently, the solution supports 32bit, 64bit, release and debug dlls.
 
 The Release dlls are output to the following directory:
 
-	GPUPerfStudio\bin\Release\Plugins\DX12Server.dll
-	GPUPerfStudio\bin\Release\Plugins\DX12Server-x64.dll
+	GPUPerfStudio\Build\VS2015\bin\Release\Plugins\DX12Server.dll
+	GPUPerfStudio\Build\VS2015\bin\Release\Plugins\DX12Server-x64.dll
 
 The Debug dlls are output to the following directory:
 
-	GPUPerfStudio\bin\Debug\Plugins\DX12Server-d.dll
-	GPUPerfStudio\bin\Debug\Plugins\DX12Server-x64-d.dll
+	GPUPerfStudio\Build\VS2015\bin\Debug\Plugins\DX12Server-d.dll
+	GPUPerfStudio\Build\VS2015\bin\Debug\Plugins\DX12Server-x64-d.dll
 
 
 Using the DLLs with GPU PerfStudio
